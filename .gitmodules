@@ -1,0 +1,3 @@
+[submodule "tutor-center-front-end"]
+	path = tutor-center-front-end
+	url = git@github.com:asennyey/tutor-center-front-end.git
